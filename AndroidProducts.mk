@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_crownlte.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_crownlte.mk
